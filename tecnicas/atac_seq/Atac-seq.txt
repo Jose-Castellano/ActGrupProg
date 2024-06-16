@@ -1,0 +1,6 @@
+Utiliza una transposasa para cortar y etiquetar regiones de cromatina abierta, seguida de la secuenciación de las regiones etiquetadas.
+
+Aplicaciones en Neoplasias Mieloides:
+Identificación de regiones de cromatina accesible que corresponden a enhancers y promotores activos en células neoplásicas.
+Estudio de los cambios en la accesibilidad de la cromatina durante la progresión de la enfermedad o en respuesta al tratamiento.
+
