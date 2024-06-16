@@ -1,0 +1,4 @@
+Descripción:
+RNA-seq (RNA sequencing) es una técnica utilizada para analizar el transcriptoma completo de una célula, es decir, todos los ARN presentes en una muestra en un momento dado.
+
+Permite cuantificar la expresión de genes, detectar nuevas transcripciones, identificar variantes de splicing alternativo y descubrir ARN no codificantes.
