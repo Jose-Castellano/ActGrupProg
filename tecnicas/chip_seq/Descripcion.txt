@@ -1,0 +1,7 @@
+ChIP-seq (Chromatin Immunoprecipitation sequencing) es una técnica utilizada para analizar la interacción entre proteínas y ADN en la célula.
+Involucra la inmunoprecipitación de ADN asociado a proteínas específicas, seguida de la secuenciación del ADN precipitado.
+Aplicaciones en Neoplasias Mieloides:
+Identificación de sitios de unión de factores de transcripción específicos, como RUNX1 o CEBPA, que están mutados o desregulados en leucemias.
+Estudio de las modificaciones de histonas (por ejemplo, H3K27ac, H3K4me3) para comprender los cambios epigenéticos asociados con la oncogénesis.
+Mapeo de las regiones reguladoras enhancers y promotores que están activas en células cancerosas versus células normales.
+Identificación de alteraciones en la estructura de la cromatina que pueden contribuir a la desregulación transcripcional.
